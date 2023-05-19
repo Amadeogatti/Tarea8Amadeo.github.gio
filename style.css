@@ -50,11 +50,65 @@ text-align: center;
    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
  color: rgb(0, 0, 0);
  text-shadow: 10cap;
- 
+}
+.nombreyapellido{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+ color: black;
+ background-color: rgb(2, 82, 29);
+ padding: 10px;
+ margin: 10px;
+    font-size: 15px;
+    border-width: 3px;
+    border-color: black;
+    border-style: solid;
+}
+.menu{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+ color: black;
+ background-color: rgb(2, 82, 29);
+ padding: 10px;
+margin-left: 550px;
+    font-size: 15px;
+    border-width: 3px;
+    border-color: black;
+    border-style: solid;
+}
+.date{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+ color: black;
+ background-color: rgb(2, 82, 29);
+ padding: 10px;
+ margin: 10px;
+    font-size: 15px;
+    border-width: 3px;
+    border-color: black;
+    border-style: solid;
+
+}
+.turno{  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+ color: black;
+ background-color: rgb(2, 82, 29);
+ padding: 10px;
+ margin: 10px;
+    font-size: 15px;
+    border-width: 3px;
+    border-color: black;
+    border-style: solid;
+}
+.turno2{  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+ color: black;
+
+ padding: 3px;
+ margin: 3px;
+    font-size: 15px;
 
 
 }
-
  
 
 /* FOOTER */
