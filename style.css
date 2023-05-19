@@ -51,6 +51,13 @@ text-align: center;
  color: rgb(0, 0, 0);
  text-shadow: 10cap;
 }
+.title{text-align: center;
+    -webkit-text-fill-color: rgb(2, 82, 29);
+    -webkit-text-stroke: 1px black;
+      font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+      font-size: 250%;
+
+}
 .nombreyapellido{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     text-align: center;
@@ -76,9 +83,7 @@ margin-left: 550px;
     border-style: solid;
 }
 .date{
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    text-align: center;
- color: black;
+  text-align: center;
  background-color: rgb(2, 82, 29);
  padding: 10px;
  margin: 10px;
@@ -86,6 +91,14 @@ margin-left: 550px;
     border-width: 3px;
     border-color: black;
     border-style: solid;
+
+}
+.uno{ color: white;
+
+}
+.dia{   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+ color: black;
 
 }
 .turno{  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
@@ -107,6 +120,21 @@ margin-left: 550px;
  margin: 3px;
     font-size: 15px;
 
+
+}
+ 
+.eso{ 
+    margin-right: 500px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+ color: black;
+ background-color: rgb(2, 82, 29);
+ padding: 10px;
+ margin: 10px;
+    font-size: 15px;
+    border-width: 3px;
+    border-color: black;
+    border-style: solid;
 
 }
  
